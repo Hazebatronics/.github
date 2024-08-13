@@ -1,5 +1,3 @@
-# HazeB
-
 ![Hazebatronics](https://github.com/user-attachments/assets/bbc36f6b-f581-4e14-abf7-47a7192fe9b1)
 
 
